@@ -1,0 +1,105 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:16:1-44:12
+	package
+		ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:17:5-53
+	android:versionName
+		ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:16:11-69
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:21:22-75
+application
+ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:23:5-42:19
+MERGED from [com.android.support:cardview-v7:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.borax12.materialdaterangepicker:library:1.9] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.borax12.materialdaterangepicker\library\1.9\AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:support-v4:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:26:5-20
+	android:label
+		ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:26:9-41
+	android:allowBackup
+		ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:25:9-45
+	android:theme
+		ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:27:9-53
+activity#com.example.android.appusagestatistics.AppUsageStatisticsActivity
+ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:28:9-32:20
+	android:label
+		ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:29:13-55
+activity#com.example.android.appusagestatistics.PatternLockActivity
+ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:33:9-41:20
+	android:theme
+		ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:33:19-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml:38:27-74
+uses-sdk
+INJECTED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:cardview-v7:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.borax12.materialdaterangepicker:library:1.9] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.borax12.materialdaterangepicker\library\1.9\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-fragment:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.andrognito.patternlockview:patternlockview:1.0.0] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.andrognito.patternlockview\patternlockview\1.0.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-compat:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:23:9-55
+	android:targetSdkVersion
+		INJECTED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\rishabh\android-AppUsageStatistics\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\AndroidManifest.xml:23:9-47
+uses-permission#android.permission.VIBRATE
+ADDED from [com.borax12.materialdaterangepicker:library:1.9] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.borax12.materialdaterangepicker\library\1.9\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [com.borax12.materialdaterangepicker:library:1.9] D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.borax12.materialdaterangepicker\library\1.9\AndroidManifest.xml:26:22-63

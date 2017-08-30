@@ -1,0 +1,710 @@
+[
+    {
+        "outputFile": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 119,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 119,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endColumn": 107,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 107,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 122,
+                    "endOffset": 451
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 122,
+                        "endOffset": 401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 456,
+                    "endColumn": 105,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 406,
+                        "endColumn": 105,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endColumn": 106,
+                    "endOffset": 664
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 106,
+                        "endOffset": 614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 669,
+                    "endColumn": 88,
+                    "endOffset": 753
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 619,
+                        "endColumn": 88,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endColumn": 100,
+                    "endOffset": 854
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 100,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 859,
+                    "endColumn": 117,
+                    "endOffset": 972
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 117,
+                        "endOffset": 922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 977,
+                    "endColumn": 82,
+                    "endOffset": 1055
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 927,
+                        "endColumn": 82,
+                        "endOffset": 1005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1060,
+                    "endColumn": 79,
+                    "endOffset": 1135
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1010,
+                        "endColumn": 79,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1140,
+                    "endColumn": 86,
+                    "endOffset": 1222
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 86,
+                        "endOffset": 1172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1227,
+                    "endColumn": 106,
+                    "endOffset": 1329
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1177,
+                        "endColumn": 106,
+                        "endOffset": 1279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1334,
+                    "endColumn": 111,
+                    "endOffset": 1441
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1284,
+                        "endColumn": 111,
+                        "endOffset": 1391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1446,
+                    "endColumn": 101,
+                    "endOffset": 1543
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1396,
+                        "endColumn": 101,
+                        "endOffset": 1493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1548,
+                    "endColumn": 107,
+                    "endOffset": 1651
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1498,
+                        "endColumn": 107,
+                        "endOffset": 1601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1656,
+                    "endColumn": 106,
+                    "endOffset": 1758
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1606,
+                        "endColumn": 106,
+                        "endOffset": 1708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1763,
+                    "endColumn": 109,
+                    "endOffset": 1868
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1713,
+                        "endColumn": 109,
+                        "endOffset": 1818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1873,
+                    "endColumn": 124,
+                    "endOffset": 1993
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1823,
+                        "endColumn": 124,
+                        "endOffset": 1943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1998,
+                    "endColumn": 99,
+                    "endOffset": 2093
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1948,
+                        "endColumn": 99,
+                        "endOffset": 2043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2098,
+                    "endColumn": 62,
+                    "endOffset": 2156
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.borax12.materialdaterangepicker\\library\\1.9\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 62,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2161,
+                    "endColumn": 77,
+                    "endOffset": 2234
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.borax12.materialdaterangepicker\\library\\1.9\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 77,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2239,
+                    "endColumn": 94,
+                    "endOffset": 2329
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.borax12.materialdaterangepicker\\library\\1.9\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 246,
+                        "endColumn": 94,
+                        "endOffset": 336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2334,
+                    "endColumn": 49,
+                    "endOffset": 2379
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.borax12.materialdaterangepicker\\library\\1.9\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 341,
+                        "endColumn": 49,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2384,
+                    "endColumn": 40,
+                    "endOffset": 2420
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.borax12.materialdaterangepicker\\library\\1.9\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 40,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2425,
+                    "endColumn": 82,
+                    "endOffset": 2503
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.borax12.materialdaterangepicker\\library\\1.9\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 82,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2508,
+                    "endColumn": 106,
+                    "endOffset": 2610
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.borax12.materialdaterangepicker\\library\\1.9\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 515,
+                        "endColumn": 106,
+                        "endOffset": 617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2615,
+                    "endColumn": 86,
+                    "endOffset": 2697
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.borax12.materialdaterangepicker\\library\\1.9\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 622,
+                        "endColumn": 86,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2702,
+                    "endColumn": 54,
+                    "endOffset": 2752
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.borax12.materialdaterangepicker\\library\\1.9\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 54,
+                        "endOffset": 759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2757,
+                    "endColumn": 54,
+                    "endOffset": 2807
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.borax12.materialdaterangepicker\\library\\1.9\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 764,
+                        "endColumn": 54,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2812,
+                    "endColumn": 67,
+                    "endOffset": 2875
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.borax12.materialdaterangepicker\\library\\1.9\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 819,
+                        "endColumn": 67,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2880,
+                    "endColumn": 62,
+                    "endOffset": 2938
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.borax12.materialdaterangepicker\\library\\1.9\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 62,
+                        "endOffset": 945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2943,
+                    "endColumn": 68,
+                    "endOffset": 3007
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.borax12.materialdaterangepicker\\library\\1.9\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 950,
+                        "endColumn": 68,
+                        "endOffset": 1014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3012,
+                    "endColumn": 60,
+                    "endOffset": 3068
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.borax12.materialdaterangepicker\\library\\1.9\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1019,
+                        "endColumn": 60,
+                        "endOffset": 1075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3073,
+                    "endColumn": 40,
+                    "endOffset": 3109
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.borax12.materialdaterangepicker\\library\\1.9\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1080,
+                        "endColumn": 40,
+                        "endOffset": 1116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3114,
+                    "endColumn": 71,
+                    "endOffset": 3181
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.borax12.materialdaterangepicker\\library\\1.9\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1121,
+                        "endColumn": 71,
+                        "endOffset": 1188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3186,
+                    "endColumn": 84,
+                    "endOffset": 3266
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2048,
+                        "endColumn": 84,
+                        "endOffset": 2128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3271,
+                    "endColumn": 100,
+                    "endOffset": 3367
+                },
+                "from": {
+                    "file": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2133,
+                        "endColumn": 100,
+                        "endOffset": 2229
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.borax12.materialdaterangepicker\library\1.9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="824405f63810bfc46099d9951f0910c15a5b6f4f">
+        <dex dex="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.borax12.materialdaterangepicker-library-1.9_9d0b8d6afc3f0db3e2a64e949aa3bf72be23cf88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_13c88b645891c4cc85ba7c23dff7890cc79a4c5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_fa28bf5206c9ce5fcdb24b748f8775854cb50b41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_12866f1e66ff559795d82b90f406015364640c0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.andrognito.patternlockview\patternlockview\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e66fc1e1b8b3389d086a5b0a4e1d9133288851c">
+        <dex dex="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.andrognito.patternlockview-patternlockview-1.0.0_c6fc5f03dcef76d4777909a4dea4f5f3d35b4bb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DMI\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_a372e8019771a0f0b79b645de2693af6e00f90ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_a7b5705f16607c350c6313b37edd6ba516a969a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_debf345e97ca29fc541ee572a10732f66641de07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_aa42ba360ca4033c2ee6785ca8eb816261e071dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_90e8ca2e59d6522523c0eeef5a8f46d59e92919d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.3.1_d57983a777bbc01917fce838e9548b4e21fb5d45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_001ddfc559204fa8885b9516707431731ba70b17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_c334687cc9f493dbb0efb4445705667416b10328.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\rishabh\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_35572353d0982f906f4f11ea771bafe5055b72a2.jar" />
+    </item>
+
+</items>

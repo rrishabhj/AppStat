@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_default_app_launcher.png",
+        "source": "D:\\rishabh\\android-AppUsageStatistics\\Application\\src\\main\\res\\drawable-hdpi\\ic_default_app_launcher.png"
+    },
+    {
+        "merged": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "D:\\rishabh\\android-AppUsageStatistics\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\rishabh\\android-AppUsageStatistics\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

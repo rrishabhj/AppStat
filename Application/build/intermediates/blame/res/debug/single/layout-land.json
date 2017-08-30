@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\res\\merged\\debug\\layout-land\\range_date_picker_dialog.xml",
+        "source": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.borax12.materialdaterangepicker\\library\\1.9\\res\\layout-land\\range_date_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\res\\merged\\debug\\layout-land\\range_time_picker_dialog.xml",
+        "source": "D:\\rishabh\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.borax12.materialdaterangepicker\\library\\1.9\\res\\layout-land\\range_time_picker_dialog.xml"
+    }
+]
