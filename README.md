@@ -13,6 +13,9 @@ Libraries Used
 --------------
 [PatternLock](https://github.com/aritraroy/PatternLockView)
 
+Downloads
+--------------
+[AppUsageStatistics.apk](https://www.dropbox.com/s/7lf2vous5dbx8k0/AppUsageStatistics.apk?dl=0)
 
 Screenshots
 -------------
