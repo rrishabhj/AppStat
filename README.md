@@ -1,5 +1,5 @@
 
-AppUsageStatistics
+AppStat
 ===================================
 
 A basic app to see the statistics of the list of apps opened last by the user build on top of the [GoogleCodeSampels](https://github.com/googlesamples/android-AppUsageStatistics).
@@ -15,7 +15,7 @@ Libraries Used
 
 Downloads
 --------------
-[AppUsageStatistics.apk](https://www.dropbox.com/s/7lf2vous5dbx8k0/AppUsageStatistics.apk?dl=0)
+[AppStat.apk](https://www.dropbox.com/s/ulcqve6hgcf6hmv/AppStat.apk?dl=0)
 
 Screenshots
 -------------
